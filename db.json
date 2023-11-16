@@ -1,0 +1,89 @@
+{
+    "products": [
+        {
+            "id": 4,
+            "name": "Sản phẩm 1",
+            "price": 40,
+            "image": "https://picsum.photos/200/100",
+            "description": "Ant Financial has a large number of enterprise-level products. With complex scenarios, designers and developers often need to respond fast due to frequent changes in product demands and concurrent R & D workflow.",
+            "categoryId": 1
+        },
+        {
+            "id": 6,
+            "name": "Sản phẩm 2",
+            "price": 80,
+            "image": "https://picsum.photos/200/300",
+            "description": "Ant Financial has a large number of enterprise-level products. With complex scenarios, designers and developers often need to respond fast due to frequent changes in product demands and concurrent R & D workflow.",
+            "categoryId": 3
+        },
+        {
+            "id": 7,
+            "name": "Sản phẩm 3",
+            "price": 80,
+            "image": "https://picsum.photos/200/300",
+            "description": "Ant Financial has a large number of enterprise-level products. With complex scenarios, designers and developers often need to respond fast due to frequent changes in product demands and concurrent R & D workflow.",
+            "categoryId": 6
+        },
+        {
+            "id": 8,
+            "name": "Sản phẩm 4",
+            "price": 80,
+            "image": "https://picsum.photos/200/300",
+            "description": "Ant Financial has a large number of enterprise-level products. With complex scenarios, designers and developers often need to respond fast due to frequent changes in product demands and concurrent R & D workflow.",
+            "categoryId": 6
+        }
+    ],
+    "categories": [
+        {
+            "id": 1,
+            "name": "Danh muc 1"
+        },
+        {
+            "id": 2,
+            "name": "Danh mục 6"
+        },
+        {
+            "name": "danh mục 3",
+            "id": 3
+        },
+        {
+            "name": "Danh mục 4",
+            "id": 4
+        },
+        {
+            "name": "Danh mục 5",
+            "id": 5
+        },
+        {
+            "name": "Danh mục 10",
+            "id": 6
+        }
+    ],
+    "users": [
+        {
+            "id": 1,
+            "name": "admin",
+            "password": "123456"
+        },
+        {
+            "id": 2,
+            "name": "user",
+            "password": "123456"
+        },
+        {
+            "name": "hiuiu",
+            "password": "867",
+            "id": 10
+        },
+        {
+            "name": "ewkjrewrie",
+            "password": "jweuwyeyd",
+            "id": 11
+        },
+        {
+            "name": "haha",
+            "password": "123456789",
+            "id": 12
+        }
+    ]
+}
